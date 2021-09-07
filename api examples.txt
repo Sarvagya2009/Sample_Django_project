@@ -5,7 +5,7 @@
 "throat": "NO",
 "headache": "NO",
 "above60": "NO",
-"gender": "MALE",
+"sex": "MALE",
 "situation": "NO"
 }
 
@@ -16,6 +16,6 @@
 "throat": "NO",
 "headache": "NO",
 "above60": "NO",
-"gender": "MALE",
+"sex": "MALE",
 "situation": "OTHER"
 }
