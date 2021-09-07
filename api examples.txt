@@ -1,0 +1,21 @@
+{
+"cough": "NO",
+"fever": "NO",
+"breathe": "NO",
+"throat": "NO",
+"headache": "NO",
+"above60": "NO",
+"gender": "MALE",
+"situation": "NO"
+}
+
+{
+"cough": "NO",
+"fever": "NO",
+"breathe": "NO",
+"throat": "NO",
+"headache": "NO",
+"above60": "NO",
+"gender": "MALE",
+"situation": "OTHER"
+}
